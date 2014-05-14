@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://sand4l.free.fr/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/4l_trophy</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/sand4l</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/partenaires</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/documents</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/contact</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/plan_site</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/mentions_legales</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/_/documents/Dossier%20de%20Partenariat%20SAND%204L.pdf</loc>
+  <lastmod>2013-04-24T18:46:26+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/administration</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://sand4l.free.fr/_/documents/Carte%20de%20Visite.pdf</loc>
+  <lastmod>2013-04-24T18:46:19+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
